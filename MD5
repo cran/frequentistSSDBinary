@@ -1,0 +1,17 @@
+c62f28da72e6ca111fff9c53216bc9eb *DESCRIPTION
+a18a470f0c0ec4fd42b9eefb5e4e2cca *NAMESPACE
+a5414add1ba51479192d4de122f57834 *R/SSD.2arms_notext.R
+1f4c3279393114f5f0f48c20c0ce918b *R/SSD.3arms_notext.R
+96228454fea3882ab153aa9995091f77 *R/get_oc_2arm_binary.R
+a4e694f635733a48a1c01387cbb049dd *R/get_oc_3arm_binary.R
+9a9d7a808d6554e18fc32d470bcaf1b5 *R/initial_sample.R
+804bd3eaf33ed182eff4b263e4c3c40f *R/optimal_2arm_binary.R
+8bb81ece38421ab84e9d813b1271f8a2 *R/optimal_3arm_binary.R
+f227a41a17f6c215266d123dfac9c629 *R/sample_size_2arm_binary.R
+57032dde461604fd063228fff758b9a8 *R/sample_size_3arm_binary.R
+79864831d321ae2896f42ae3e1c74bf5 *man/get_oc_2arm_binary.Rd
+6492f3caf82c33147640d97a9bb86e52 *man/get_oc_3arm_binary.Rd
+6a39b906b60a25bd7ef272fd3e1ec6a4 *man/optimal_2arm_binary.Rd
+d5057f51a5047944aff79bab3c0ffe84 *man/optimal_3arm_binary.Rd
+1899f915681d2ad5ab0766cc67c77497 *man/sample_size_2arm_binary.Rd
+2d136fff5c8143cd8f5b07cf601efcf4 *man/sample_size_3arm_binary.Rd
